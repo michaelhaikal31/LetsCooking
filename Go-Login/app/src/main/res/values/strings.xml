@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Lets Cooking</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_Home">Home</string>
+    <string name="nav_item_Categoty">Category</string>
+    <string name="nav_item_Rate_App">Rate App</string>
+    <string name="nav_item_Feed_Back">Feed Back</string>
+    <string name="nav_item_About_app">About App</string>
+    <string name="nav_item_Exit">Exit</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_Home</item>
+        <item>@string/nav_item_Categoty</item>
+        <item>@string/nav_item_Rate_App</item>
+        <item>@string/nav_item_Feed_Back</item>
+        <item>@string/nav_item_About_app</item>
+        <item>@string/nav_item_Exit</item>
+
+    </string-array>
+
+    <integer-array name="nav_drawer_image">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_card_giftcard</item>
+        <item>@drawable/ic_dashboard</item>
+        <item>@drawable/ic_dashboard</item>
+        <item>@drawable/ic_dashboard</item>
+        <item>@drawable/ic_dashboard</item>
+    </integer-array>
+
+
+    <string name="transition_name">transition:CIRCLE</string>
+    <string name="transition_image">transition:PHONE</string>
+
+
+    <string name="settings">Settings</string>
+    <string name="myaccount">My Account</string>
+    <string name="stats">Stats</string>
+    <string name="search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_home_app">Lets Cooking</string>
+    <string name="hello_blank_fragment">Blank</string>
+    <string name="id_youtube">aa4IuzqVRXM</string>
+
+    <string name="detail_deskripsi">Penyelenggaraan diklat kompetensi rekayasa bertujuan mempersiapkan peserta diklat agar dapat bekerja sesuai dengan komptenensi yang dimiliki, membekali mereka dengan keterampilan dan pengetahuan serta sikap dalam hal:\n
+    1. Mampu memahami konsep rekayasa perangkat lunak\n \n
+    2. Mampu melaksanakan analisis kebutuhan,perancangan, implementasi dan pengujian perangkat lunak dengan pendekatan terstruktur.\n \n
+    3. Mampu menyusun dokumentasi pengembangan perangkat lunak.</string>
+
+
+</resources>
